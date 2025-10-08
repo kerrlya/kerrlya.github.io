@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "KPN"
+title                    : "Kerria Pang-Naylor"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Bellevue, WA"
   employer         : "Harvey Mudd College"
   uri              : # URL
-  email            : "# none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/kerria-pang-naylor/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
