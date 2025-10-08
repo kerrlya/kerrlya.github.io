@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) 
+I'm a software engineer at Microsoft. Formerly, I was a student research intern at Professor George D. Monta\~nez's AMISTAD Lab at Harvey Mudd College, where I received the [2024 Barry Goldwater scholarship](https://goldwaterscholarship.gov/) and the [2025 Computing Research Association's Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).

@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Bellevue, WA"
-  employer         : "Microsoft / Harvey Mudd College"
+  employer         : "Harvey Mudd College"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-3329-5211"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
