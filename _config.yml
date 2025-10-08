@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "KPN"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "kerrlya/kerrlya.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "KPN"
+  name             : #"KPN"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Bellevue, WA"
