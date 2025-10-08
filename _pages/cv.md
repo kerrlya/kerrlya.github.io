@@ -9,6 +9,23 @@ redirect_from:
 
 ## Edge Science
 
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+
+**Left column content**  
+- Item A  
+- Item B  
+
+  </div>
+  <div style="flex: 1;">
+
+**Right column content**  
+- Item C  
+- Item D  
+
+  </div>
+</div>
+
 ## Controllable Clustering with LLM-driven Embeddings
 
 ## Inductive Orientation-derived Model-Agnostic Metrics

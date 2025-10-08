@@ -24,6 +24,6 @@ I'm a software engineer at Microsoft. Formerly, I was a student research intern 
 
  - **January 16th, 2025**: Received CRA Outstanding Undergraduate Researcher Award ([news item](https://www.hmc.edu/about/2025/01/17/harvey-mudd-student-kerria-pang-naylor-earns-prestigious-cra-outstanding-undergraduate-researcher-award/))
 
- - **November 11th, 2025**: Received [Stavros Busenberg Prize in Applied Mathematics](https://www.hmc.edu/mathematics/about/awards/) (Harvey Mudd College Math Department Award)
+ - **November 11th, 2025**: Received [Stavros Busenberg Prize in Applied Mathematics](https://www.hmc.edu/mathematics/about/awards/) (Mathematics Departmental Award)
 
  
