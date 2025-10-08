@@ -12,11 +12,13 @@ I'm a software engineer at Microsoft. Formerly, I was a student research intern 
 
 
 ## Recent News
-(-) **September 24th, 2025**: Paper ``Controllable Clustering with LLM-driven Embeddings" accepted to EMNLP 2025 Industry track
+ - **September 24th, 2025**: Paper "Controllable Clustering with LLM-driven Embeddings" accepted to EMNLP 2025 Industry track
 
-(-) **July 29th, 2025**: Extended paper ``Analyzing and Comparing Machine Learning Models via Inductive Orientation" accepted to Lecture Notes in Artificial Intelligence ICAART post-publication issue (publication date: December 5th, 2025)
+ - **July 29th, 2025**: Extended paper "Analyzing and Comparing Machine Learning Models via Inductive Orientation" accepted to Lecture Notes in Artificial Intelligence ICAART post-publication issue (publication date: December 5th, 2025)
 
-(-) **May 16th, 2025**: Recieved the [``Class of '94" Computer Science Departmental Award](https://www.hmc.edu/cs/student-awards/)
+ - **May 16th, 2025**: Graduated from Harvey Mudd College and recieved the ["Class of '94" Computer Science Departmental Award](https://www.hmc.edu/cs/student-awards/)
 
-(-) **February 23rd, 2025**: Presented paper ``Model Characterization with Inductive Orientation Vectors" at ICAART 2025
+ - **May 12th, 2025**: Presented at CRA Undergraduate Research Awardee Lightning Talks
+
+ - **February 23rd, 2025**: Presented paper "Model Characterization with Inductive Orientation Vectors" at ICAART 2025
  

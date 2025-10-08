@@ -30,7 +30,7 @@ author:
   location         : "Bellevue, WA"
   employer         : "Harvey Mudd College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "# none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kerrlya"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
