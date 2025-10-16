@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="flex: 0.35; text-align: center;">
 
-<img src="C:\files\network.png" alt="Description" style="max-width: 100%; border-radius: 8px;">
+<img src="\files\network.png" alt="Description" style="max-width: 100%; border-radius: 8px;">
 
   </div>
   <div style="flex: 0.65;">
