@@ -7,19 +7,18 @@ redirect_from:
   - /resume
 ---
 
-## Edge Science
-
+## Bounded-Confidence Cascade Parameter Fitting
+[*\[Poster\]*](https://kerrlya.github.io/files/bc_poster.pdf)
 <div style="display: flex; gap: 20px; align-items: center;">
-  <div style="flex: 0.35; text-align: center;">
+  <div style="flex: 0.65; text-align: center;">
 
-<img src="\files\network.png" alt="Description" style="max-width: 100%; border-radius: 8px;">
+This project investigates bounded-confidence cascades as simulations of how ideas spread across social networks. By fitting these models to social media datasets, it becomes possible to study the mechanisms driving online political polarization. However, applying bounded-confidence models to real-world data remains largely unexplored due to the incompatibility between complex, noisy datasets and the models’ abstract theoretical foundations. The project involves developing tools to extract and analyze follower and retweet network structures from Twitter, followed by statistical estimation of the models’ underlying network parameters. A key challenge is adapting textual data to the model’s representation of opinions as single numerical values. To address this, the project introduces a novel approach that employs probabilistic text classifiers to assign opinion scores directly to text data. Ongoing work focuses on fine-tuning logistic regression models and LSTM neural networks for this opinion-score assignment process.
+
 
   </div>
-  <div style="flex: 0.65;">
+  <div style="flex: 0.35;">
 
-**Right Column Title**  
-Here’s some descriptive text that goes along with the image on the left.  
-You can use full Markdown syntax here — **bold**, _italics_, lists, links, etc.
+<img src="\files\network.png" alt="Description" style="max-width: 100%; border-radius: 8px;">
 
   </div>
 </div>
