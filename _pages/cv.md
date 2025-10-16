@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects & Publications"
-permalink: /portfolio/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
