@@ -1,11 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Bounded-confidence cascades simulate the spread of ideas on a social network. Fitting these models with social media datasets would let us study the mechanics of online political polarization.  However, bounded-confidence model fitting is largely unexplored by the field due to incompatibility between messy, real datasets and the model’s abstract foundations. <br/><img src='/files/network.png'>"
+title: "Controllable Clustering with LLM-driven Embeddings"
+excerpt: "Given the inherent subjectivity of similarity in text, fully unsupervised text clustering is unlikely to produce groupings that are relevant across a variety of use cases. Traditional techniques to guide clustering rely on costly, time-consuming human feedback and/or pre-existing labels. Leveraging recent advancements in LLMs and decoder-only embedding models, this project presents techniques to effectively control text embeddings with minimal human input: instruction prefixing and LLM preprocessing. We evaluate clustering performance for datasets with multiple independent ground-truth labels, or perspectives, and find that these techniques can be used to improve clustering for one perspective or use case, at the cost of a tradeoff in performance for another use case. <br/><img src='/files/llmdiagram.png'>"
 collection: portfolio
 ---
 
-Bounded-confidence cascades simulate the spread of ideas on a social network. Fitting these models with social media datasets would let us study the mechanics of online political polarization.  However, bounded-confidence model fitting is largely unexplored by the field due to incompatibility between messy, real datasets and the model’s abstract foundations. 
+Given the inherent subjectivity of similarity in text, fully unsupervised text clustering is unlikely to produce groupings that are relevant across a variety of use cases. Traditional techniques to guide clustering rely on costly, time-consuming human feedback and/or pre-existing labels. Leveraging recent advancements in LLMs and decoder-only embedding models, this project presents techniques to effectively control text embeddings with minimal human input: instruction prefixing and LLM preprocessing. We evaluate clustering performance for datasets with multiple independent ground-truth labels, or perspectives, and find that these techniques can be used to improve clustering for one perspective or use case, at the cost of a tradeoff in performance for another use case.
 
-[*\[Poster\]*](https://kerrlya.github.io/files/bc_poster.pdf)
-
-*Poster Citation*: Zinn-Brook H, and Pang-Naylor K. 2022. Twitter Generated Information Cascades. Poster session presented at: HMC Summer Research & Scholarship Poster Celebration; 2022 September 23; Claremont, CA.
+[**\[Paper\]** (will be published with EMNLP 2025 proceedings)](): Pang-Naylor, K., Manivasagan, S., Zhong, A., Garg, M., Mondello, N., Buckner, B., Chang, J., Mahajan, K., Hashemi, M., Casati, F. (in press). Controllable Clustering with LLM-driven Embeddings. *Empirical Methods in Natural Language Processing* (EMNLP 2025), Industry Track.
