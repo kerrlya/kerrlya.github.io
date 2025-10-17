@@ -11,11 +11,12 @@ redirect_from:
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 0.7; text-align: center;">
+      <span style="font-size: 0.9em;">
     Given the inherent subjectivity of similarity in text, fully unsupervised text clustering is unlikely to produce groupings that are relevant across a variety of use cases. Traditional techniques to guide clustering rely on costly, time-consuming human feedback and/or pre-existing labels. Leveraging recent advancements in LLMs and decoder-only embedding models, this project presents techniques to effectively control text embeddings with minimal human input: instruction prefixing and LLM preprocessing. We evaluate clustering performance for datasets with multiple independent ground-truth labels, or perspectives, and find that these techniques can be used to improve clustering for one perspective or use case, at the cost of a tradeoff in performance for another use case.
+        </span>
   </div>
   <div style="flex: 0.3;">
     <img src="\files\llmdiagram.png" alt="Description" style="max-width: 100%; border-radius: 8px;">
-    </span>
   </div>
 </div>
 
