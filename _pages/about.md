@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer at Microsoft and recent graduate. Formerly, I was a research intern at Professor George D. Montañez's AMISTAD Lab at Harvey Mudd College, where I received the [2024 Barry Goldwater Scholarship](https://goldwaterscholarship.gov/) and the [2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
+I'm a software engineer at Microsoft. I recently graduated from Harvey Mudd College with a B.S. in Mathematics and Computer Science. Formerly, I was a research intern at Professor George D. Montañez's AMISTAD Lab, where I received the [2024 Barry Goldwater Scholarship](https://goldwaterscholarship.gov/) and the [2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
 
 
 
