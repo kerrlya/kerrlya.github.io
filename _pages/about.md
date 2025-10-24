@@ -33,8 +33,8 @@ I'm a software engineer at Microsoft. I recently graduated from Harvey Mudd Coll
 
 **Pang-Naylor, K.**, Manivasagan, S., Zhong, A., Garg, M., Mondello, N., Buckner, B., Chang, J., Mahajan, K., Hashemi, M., Casati, F. (in press). Controllable Clustering with LLM-driven Embeddings. *Empirical Methods in Natural Language Processing* (EMNLP 2025), Industry Track.
 
-**Pang-Naylor, K.**, Chen, E., Montañez, G. (2025). Model Characterization with Inductive Orientation Vectors. \textit{International Conference on Agents and Artificial Intelligence (ICAART 2025)}. https://doi.org/10.5220/0013304400003890.
+**Pang-Naylor, K.**, Chen, E., Montañez, G. (2025). Model Characterization with Inductive Orientation Vectors. *International Conference on Agents and Artificial Intelligence* (ICAART 2025). [doi:10.5220/0013304400003890](https://doi.org/10.5220/0013304400003890).
 
-**Pang-Naylor, K.**, Li, I., Rajesh, K., Montañez, G. D. (2024). Probabilistic Error Guarantees for Abductive Inference. IEEE International Conference on Future Machine Learning and Data Science (IEEE FMLDS). https://doi.org/10.1109/fmlds63805.2024.00038.
+**Pang-Naylor, K.**, Li, I., Rajesh, K., Montañez, G. D. (2024). Probabilistic Error Guarantees for Abductive Inference. *IEEE International Conference on Future Machine Learning and Data Science* (IEEE FMLDS). [doi:10.1109/fmlds63805.2024.00038](https://doi.org/10.1109/fmlds63805.2024.00038).
 
 
