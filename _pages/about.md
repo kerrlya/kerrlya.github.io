@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer at Microsoft. I recently graduated from Harvey Mudd College with a B.S. in Mathematics and Computer Science. Formerly, I was a research intern at Professor George D. Montañez's AMISTAD Lab, where I received the [2024 Barry Goldwater Scholarship](https://www.hmc.edu/about/2025/01/17/harvey-mudd-student-kerria-pang-naylor-earns-prestigious-cra-outstanding-undergraduate-researcher-award/) and the [2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
+I'm a software engineer at Microsoft. I recently graduated from Harvey Mudd College with a B.S. in Mathematics and Computer Science. Formerly, I was a research intern at Professor George D. Montañez's AMISTAD Lab, where I received the [2024 Barry Goldwater Scholarship](https://www.hmc.edu/about/2024/04/14/harvey-mudd-junior-kerria-pang-naylor-named-2024-goldwater-scholar/) and the [2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
 
 
 
