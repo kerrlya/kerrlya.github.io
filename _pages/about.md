@@ -31,7 +31,7 @@ I'm a software engineer at Microsoft. I recently graduated from Harvey Mudd Coll
 ## Publications
 **Pang-Naylor, K.**, Chen, E., Montañez, G. (in press). Analyzing and Comparing Machine Learning Models via Inductive Orientation. In International Conference on Agents and Artificial Intelligence. Springer International Publishing.
 
-Pang-Naylor, K., Manivasagan, S., Zhong, A., Garg, M., Mondello, N., Buckner, B., Chang, J., Mahajan, K., Hashemi, M., & Casati, F. (2025). Controllable clustering with LLM-driven embeddings. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track (pp. 686–702). Association for Computational Linguistics. [(ACL archive link)](https://aclanthology.org/2025.emnlp-industry.48.pdf)
+**Pang-Naylor, K.**, Manivasagan, S., Zhong, A., Garg, M., Mondello, N., Buckner, B., Chang, J., Mahajan, K., Hashemi, M., & Casati, F. (2025). Controllable clustering with LLM-driven embeddings. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track (pp. 686–702). Association for Computational Linguistics. [(ACL archive link)](https://aclanthology.org/2025.emnlp-industry.48.pdf)
 
 **Pang-Naylor, K.**, Chen, E., Montañez, G. (2025). Model Characterization with Inductive Orientation Vectors. In *17th International Conference on Agents and Artificial Intelligence* (ICAART 2025). [doi:10.5220/0013304400003890](https://doi.org/10.5220/0013304400003890).
 
