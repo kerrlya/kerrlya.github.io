@@ -12,7 +12,7 @@ I'm a software engineer at Microsoft. I recently graduated from Harvey Mudd Coll
 
 
 ## Recent News
- - **September 24th, 2025**: Paper "Controllable Clustering with LLM-driven Embeddings" accepted to EMNLP 2025 Industry track
+ - **September 24th, 2025**: Paper "Controllable Clustering with LLM-driven Embeddings" accepted to EMNLP 2025 Industry track ([link](https://aclanthology.org/2025.emnlp-industry.48.pdf))
 
  - **July 29th, 2025**: Extended paper "Analyzing and Comparing Machine Learning Models via Inductive Orientation" accepted to Lecture Notes in Artificial Intelligence ICAART post-publication issue (publication date: December 5th, 2025)
 
